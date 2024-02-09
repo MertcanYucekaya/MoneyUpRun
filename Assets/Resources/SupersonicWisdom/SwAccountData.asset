@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bde5b51eef6a4560b2a2442b047a9a7, type: 3}
+  m_Name: SwAccountData
+  m_EditorClassIdentifier: 
+  titlesList:
+  - games: []
+    id: 
+    name: --- select ---
+  - games:
+    - adMobId: 
+      bundleId: com.Silverzen.MoneyRunUp
+      facebookAppId: 895440132049562
+      facebookToken: d6d456592b442f6e8a1f085994b6bee8
+      gameAnalyticsKey: 3444615c02162606ac54b50eb2936a5a
+      gameAnalyticsSecret: 34434e3602d961ff1d4d56d6e4bd95c9e1c4437f
+      id: f601e509-7c8c-4d90-b1c6-89752019c690
+      isAppKey: 
+      os: android
+      platform: google_play
+      storeId: com.Silverzen.MoneyRunUp
+    id: 0c68d8fc-735b-4522-872c-c03103516452
+    name: MoneyRunUp
+  integrationGuideUrl: 
