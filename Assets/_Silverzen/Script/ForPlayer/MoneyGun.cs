@@ -49,10 +49,12 @@ public class MoneyGun : MonoBehaviour
 
     private void Start()
     {
+/*
         savedMoneys.Add(5);
         savedMoneys.Add(2);
         savedMoneys.Add(7);
         savedMoneys.Add(1);
+*/
         DOTween.Init();
         for (int i = 0; i < 4; i++)
         {
